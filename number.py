@@ -28,8 +28,8 @@ from telegram.ext import (
 
 # ==================== CONFIGURATION ====================
 
-BOT_TOKEN = "8734346705:AAHWDTUbhaAe3hsx2PX6yVfa3bg1oO03rXI"
-ADMIN_IDS = [8478266638]
+BOT_TOKEN = "8734346705:AAGvGgJcLvN5rpx0EdeOEWarodznG00x3io"
+ADMIN_IDS = [5995335528]
 
 # ==================== LOAD COUNTRIES FROM JSON FILE ====================
 
